@@ -1,3 +1,6 @@
+
+
+
 // ==UserScript==
 // @name         Orochi Prover 自动刷新与点击（延迟10秒 + 挖矿状态检测）
 // @namespace    http://tampermonkey.net/
